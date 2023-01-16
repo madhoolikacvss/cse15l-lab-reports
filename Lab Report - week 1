@@ -1,0 +1,6 @@
+# **Working our way to remote access - CSE 15L**
+## Task 1 -Installing Visual Studio Code (VScode)
+VS code is an IDE (Integrated DevelopmentEnvironment) we eill be using for our class. So evidently, out first task is to install and set up VScode.
+Click on the following that will take you to the official VScode website: [VScode website](https://code.visualstudio.com/). Select the most latest version of VScode that suits your OS and install it on to your computer. 
+In case you are hesitant to download VScode and other imporant files onto your personal computer, you could use UCSD's lab computers - you'll find them at CSE building.
+After it is done, open it up and you'll find a window looking like such: ![VScode window](http://url/a.png)
