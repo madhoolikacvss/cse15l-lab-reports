@@ -3,7 +3,7 @@
 VS code is an IDE (Integrated DevelopmentEnvironment) we eill be using for our class. So evidently, out first task is to install and set up VScode.
 Click on the following that will take you to the official VScode website: [VScode website](https://code.visualstudio.com/). Select the most latest version of VScode that suits your OS and install it on to your computer. 
 In case you are hesitant to download VScode and other imporant files onto your personal computer, you could use UCSD's lab computers - you'll find them at CSE building.
-After it is done, open it up and you'll find a window looking like such: ![VScode window](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/VScode%20window.jpg)
+After it is done, open it up and you'll find a window looking like such: ![VScode window](https://user-images.githubusercontent.com/122486374/212809701-686eb45e-8844-4c98-b766-a001ec7e87d6.jpg)
 
 **NOTE:** You will not be able to see the Recent files when you install VScode afresh as you have not created any files on it for VScode to display them.
 
