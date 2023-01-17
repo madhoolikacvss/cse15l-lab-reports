@@ -5,7 +5,7 @@ Click on the following that will take you to the official VScode website: [VScod
 In case you are hesitant to download VScode and other imporant files onto your personal computer, you could use UCSD's lab computers - you'll find them at CSE building.
 After it is done, open it up and you'll find a window looking like such: ![VScode window](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/VScode%20window.jpg)
 
-**NOTE:**You will not be able to see the Recent files when you install VScode afresh as you have not created any files on it for VScode to display them.
+**NOTE:** You will not be able to see the Recent files when you install VScode afresh as you have not created any files on it for VScode to display them.
 
 ## **Task 2 - Remotely connecting**
 
