@@ -3,7 +3,7 @@
 VS code is an IDE (Integrated DevelopmentEnvironment) we eill be using for our class. So evidently, out first task is to install and set up VScode.
 Click on the following that will take you to the official VScode website: [VScode website](https://code.visualstudio.com/). Select the most latest version of VScode that suits your OS and install it on to your computer. 
 In case you are hesitant to download VScode and other imporant files onto your personal computer, you could use UCSD's lab computers - you'll find them at CSE building.
-After it is done, open it up and you'll find a window looking like such: ![VScode window](https://user-images.githubusercontent.com/122486374/212809701-686eb45e-8844-4c98-b766-a001ec7e87d6.jpg)
+After it is done, open it up and you'll find a window looking like such: ![VScode window](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/VScode.jpg)
 
 **NOTE:** You will not be able to see the Recent files when you install VScode afresh as you have not created any files on it for VScode to display them.
 
@@ -20,7 +20,7 @@ Follow [this link](https://sdacs.ucsd.edu/~icc/index.php) that will take you to 
   4. *Instead* of click on 'Check', just press enter on your keyboard.
   5. Wait for about 15 mins for the system to reset your password
   You will know if you have successfully changed your password if you see the following on the website.
-  ![After password change window](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/After%20password%20reset.jpg)
+  ![After password change window](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/password.jpg)
   
 **Task 2.2 - Accessing the account**
 Closely follow the steps below to connect to the remote server:
@@ -35,10 +35,10 @@ Closely follow the steps below to connect to the remote server:
 
 **NOTE:** If you are having troubles with logging in, and your terminal looks something similar to below, please wait for a while longer and retry
           (UCSD's servers might be in the process of resetting your passsword). Make sure you are typing in the correct password.
-          ![Login issue](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/login%20issue.jpg)
+          ![Login issue](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/login.jpg)
 
 7. After successfully logging in, you terminal will look something like below:
-![After successful login](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/After%20login.jpg)
+![After successful login](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/success.jpg)
 8. Try out some commands to see how they work differently int he clinet computer and the remote server.
    eg: cd ~, cd, ls -lat, ls -a
 
