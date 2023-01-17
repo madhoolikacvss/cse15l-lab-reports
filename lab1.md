@@ -25,7 +25,7 @@ Follow [this link](https://sdacs.ucsd.edu/~icc/index.php) that will take you to 
 **Task 2.2 - Accessing the account**
 Closely follow the steps below to connect to the remote server:
 
-1. Download Git using this [this link](https://gitforwindows.org/)
+1. Download Git using this [this link](https://gitforwindows.org/) ![Git download](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/Git%20ss.jpg)
 2. Go onto VScode and type *ctrl + shift + p*
 3. Type 'Select Default Profile' onto the search bar and select select Git Bash
 4. Open VScode terminal or just press *ctrl + `*
