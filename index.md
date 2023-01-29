@@ -67,7 +67,7 @@ Closely follow the steps below to connect to the remote server:
    This is my Remote ls!
    
    
-   [Remote ls](remotels.jpg)
+   ![Remote ls](remotels.jpg)
    
    
    
