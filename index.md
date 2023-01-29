@@ -62,7 +62,7 @@ Closely follow the steps below to connect to the remote server:
    This is my Client ls:
    
    
-   ![Client ls](clientls.jpg) 
+   ![Client ls](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/clientls.jpg) 
    
    This is my Remote ls:
    
