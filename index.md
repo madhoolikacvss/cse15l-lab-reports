@@ -47,18 +47,26 @@ Closely follow the steps below to connect to the remote server:
    **pwd** - It prints the working directory you are in. Client and remote dierectories should be different because you are accessing different locations.
    
    This is my Client pwd
+   
+   
    ![Client pwd](clientpwd.jpg) 
    
    This is my Remote pwd
+   
+   
    ![Remote pwd](remotepwd.jpg)
    
    **ls** - Lists out all the files in the current directory. The folder I have opened has a few pictures in them hence you can see a lot them in my list.
    My remote server has two java folders and hence you can see them in the list of files on the remote server.
    
    This is my Client ls
+   
+   
    ![Client ls](clientls.jpg) 
    
    This is my Remote ls!
+   
+   
    [Remote ls](remotels.jpg)
    
    
