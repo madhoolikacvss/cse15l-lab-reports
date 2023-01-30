@@ -1,6 +1,6 @@
 # **Working our way to remote access - CSE 15L**
 ## **Task 1 -Installing Visual Studio Code (VScode)**
-VS code is an IDE (Integrated DevelopmentEnvironment) we will be using for our class. So evidently, our first task is to install and set up VScode.
+VS code is an IDE (Integrated Development Environment) we will be using for our class. So evidently, our first task is to install and set up VScode.
 Click on the following link that will take you to the official [VScode website](https://code.visualstudio.com/). Select the most latest version of VScode that suits your OS and install it on to your computer. 
 In case you are hesitant to download VScode and other imporant files onto your personal computer, you could use UCSD's lab computers - you'll find them at the basement of CSE building.
 After it is done, open it up and you'll find a window looking like such: ![VScode window](VScode.jpg)
@@ -13,7 +13,7 @@ For you to connect to the remote server from your computer, you'll need to activ
 
 **Task 2.1** - Activating your CSE 15L account
 
-Follow [this link](https://sdacs.ucsd.edu/~icc/index.php) that will take you to UCSD's IT sercives website, and follow the steps below.
+Follow [this link](https://sdacs.ucsd.edu/~icc/index.php) that will take you to UCSD's IT services website, and follow the steps below.
   1. Select the account that starts with 'cs'. It will look something like cs15lfa22zz.
   2. Enter your current password and then enter the new password you'd like the CSE 15L account to have.
   3. Select *No* for the question - 'Change MyTritonLink password?'
@@ -62,7 +62,7 @@ Closely follow the steps below to connect to the remote server:
    This is my Client ls:
    
    
-   ![Client ls](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/clientls.jpg) 
+   ![Client ls](https://github.com/madhoolikacvss/cse15l-lab-reports/blob/main/clientls.jpg)
    
    This is my Remote ls:
    
